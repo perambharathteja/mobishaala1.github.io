@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.rs-button {
+    background-color: red;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 0px;
+    height: 38px;
+    width: 42px;
+    border-radius: 4px;
+
+}
+
+.text {
+    text-align: justify;
+}
+
+@media screen and (min-width: 768px) {
+    .text {
+        text-align: justify;
+    }
+}
+
+@media screen and (min-width: 575px) {
+    .text-content {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .bg-container {
+        padding: 70px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .bg-container {
+        padding: 65px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .bg-container {
+        padding: 30px;
+    }
+}
+
+@media screen and (max-width: 993px) {
+    iframe {
+        width: 492px;
+        height: 260px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    iframe {
+        width: 348px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .end-details {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .end-details {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .end-details {
+        display: none;
+    }
+}
+
+.lis {
+    color: #fff;
+    font-family: "Roboto";
+}
+
+@media screen and (max-width: 767px) {
+    ul {
+        display: none;
+    }
+}
+
+
+
+@media screen and (min-width: 767px) {
+    .buy-button {
+        display: none;
+    }
+}
+
+.text {
+    text-align: justify;
+}
+
+@media screen and (max-width: 576px) {
+    .main-heading-1 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    iframe {
+        width: 260px;
+        height: 180px;
+    }
+}
+
+.digital {
+    color: yellow;
+    font-weight: 600;
+}
+
+.address-heading {
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 600;
+
+}
+
+.office {
+    font-weight: 550;
+    font-size: 14px;
+}
+
+.content {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 100;
+}
+
+.side-deadings {
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 15px;
+
+}
+
+.m-heading {
+    font-family: "Roboto";
+    font-size: 32px;
+    color: #ffffff;
+    font-style: oblique;
+}
+
+.end-details {
+    background-color: #ba0b3a;
+    text-align: justify;
+    padding: 18px;
+}
+
+.chat-button {
+    background-color: #2ca41c;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-width: 0px;
+    height: 42px;
+    width: 120px;
+    border-radius: 4px;
+    margin-top: 20px;
+
+}
+
+.chat-image-button {
+    height: 18px;
+    width: 19px;
+    margin-right: 4px;
+
+}
+
+.download-button {
+    background-color: red;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-width: 0px;
+    height: 42px;
+    width: 120px;
+    border-radius: 4px;
+}
+
+.get-button {
+    background-color: red;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-width: 0px;
+    height: 38px;
+    width: 92px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.name {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.buy-button {
+    background-color: red;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 0px;
+    height: 38px;
+    width: 42px;
+    border-radius: 4px;
+
+}
+
+.main-heading-1 {
+    font-family: "Roboto";
+    font-size: 42px;
+    color: #ffffff;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.main-heading-2 {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 100;
+    text-align: justify;
+
+}
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dpeygopy6/image/upload/v1710477302/Screenshot-92-Photoroom_qwcbwi.png");
+    background-size: cover;
+    text-align: center;
+
+}
